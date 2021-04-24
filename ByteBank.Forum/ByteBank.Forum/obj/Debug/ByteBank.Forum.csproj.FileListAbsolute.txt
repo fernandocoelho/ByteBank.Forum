@@ -85,3 +85,16 @@ D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\obj\Debug\Byte
 D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\obj\Debug\ByteBank.Forum.csproj.CopyComplete
 D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\obj\Debug\ByteBank.Forum.dll
 D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\obj\Debug\ByteBank.Forum.pdb
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Owin.dll
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.xml
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.xml
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Code\CSharp\Alura\ByteBank.Forum\ByteBank.Forum\ByteBank.Forum\bin\Microsoft.Owin.Security.OAuth.xml
