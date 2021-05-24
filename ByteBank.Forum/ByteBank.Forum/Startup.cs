@@ -42,11 +42,18 @@ namespace ByteBank.Forum
                     userManager.PasswordValidator = new SenhaValidador()
                     {
                         TamanhoRequerido = 6,
-                        ObrigatorioCaracteresEspeciais = true,
-                        ObrigatorioDigitos = true,
-                        ObrigatorioLowerCase = true,
-                        ObrigatorioUpperCase = true
+                        ObrigatorioCaracteresEspeciais = false,
+                        ObrigatorioDigitos = false,
+                        ObrigatorioLowerCase = false,
+                        ObrigatorioUpperCase = false
                     };
+
+                    userManager.EmailService = new EmailServico();
+
+                    var dataProtectionProvider = opcoes.DataProtectionProvider;
+                    var dataProtectionProviderCreated = dataProtectionProvider.Create("ByteBank.Forum");
+
+                    userManager.UserTokenProvider = new DataProtectorTokenProvider<UsuarioAplicacao>(dataProtectionProviderCreated);
 
                     return userManager;
                 });                
