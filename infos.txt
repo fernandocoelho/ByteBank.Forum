@@ -1,4 +1,8 @@
+PM> Install-Package Microsoft.AspNet.Identity.Core -Version 2.2.1
+
 PM> Install-Package Microsoft.AspNet.Identity.EntityFramework -Version 2.2.1
+
+
 
 ByteBank.Forum
 
