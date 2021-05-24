@@ -1,0 +1,5 @@
+PM> Install-Package Microsoft.AspNet.Identity.EntityFramework -Version 2.2.1
+
+ByteBank.Forum
+
+fernandocoelho/aspnet-identity
